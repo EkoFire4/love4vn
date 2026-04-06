@@ -1745,6 +1745,8 @@ http://myxpanel.pro:80/live/Martin/Martin/662318.ts
 http://myxpanel.pro:80/live/Martin/Martin/662321.ts
 #EXTINF:-1 tvg-id="next1204gmtcesenafcvsfcsüdtirolallprimede" tvg-name="Next | 12:04 (GMT) | Cesena FC vs. FC Südtirol | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 12:04 (GMT) | Cesena FC vs. FC Südtirol | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662317.ts
+#EXTINF:-1 tvg-id="next1204gmtharistahirconnorbenzeywmqualifikationsheffieldenglischerkommentarallprimede" tvg-name="Next | 12:04 (GMT) | Haris Tahir - Connor Benzey WM | Qualifikation | Sheffield | Englischer Kommentar | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 12:04 (GMT) | Haris Tahir - Connor Benzey WM | Qualifikation | Sheffield | Englischer Kommentar | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662313.ts
 #EXTINF:-1 tvg-id="next1204gmtkendohertypatrickwhelanwmqualifikationsheffieldenglischerkommentarallprimede" tvg-name="Next | 12:04 (GMT) | Ken Doherty - Patrick Whelan WM | Qualifikation | Sheffield | Englischer Kommentar | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 12:04 (GMT) | Ken Doherty - Patrick Whelan WM | Qualifikation | Sheffield | Englischer Kommentar | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662315.ts
 #EXTINF:-1 tvg-id="next1204gmtkendohertypatrickwhelanwmqualifikationsheffieldenglischerkommentarallprimede" tvg-name="Next | 12:04 (GMT) | Ken Doherty - Patrick Whelan WM | Qualifikation | Sheffield | Englischer Kommentar | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 12:04 (GMT) | Ken Doherty - Patrick Whelan WM | Qualifikation | Sheffield | Englischer Kommentar | all | PRIME-DE
@@ -1759,8 +1761,6 @@ http://myxpanel.pro:80/live/Martin/Martin/662314.ts
 http://myxpanel.pro:80/live/Martin/Martin/662322.ts
 #EXTINF:-1 tvg-id="next1204gmtudinesevscomoallprimede" tvg-name="Next | 12:04 (GMT) | Udinese vs. Como | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 12:04 (GMT) | Udinese vs. Como | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662316.ts
-#EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
-http://myxpanel.pro:80/live/Martin/Martin/662313.ts
 #EXTINF:-1 tvg-id="atskysportaustria1ᵁᴴᴰ" tvg-name="|AT|  Sky Sport Austria 1 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/AUSTRIA/SKYSPORTAUSTRIA.png" group-title="DE | SPORT",|AT|  Sky Sport Austria 1 ᵁᴴᴰ
 http://myxpanel.pro:80/live/Martin/Martin/662369.ts
 #EXTINF:-1 tvg-id="atskysportaustria" tvg-name="|AT| Sky Sport Austria" tvg-logo="http://138.199.27.237:8080/AUSTRIA/SKYSPORTAUSTRIA.png" group-title="DE | SPORT",|AT| Sky Sport Austria
