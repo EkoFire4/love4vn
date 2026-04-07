@@ -623,13 +623,13 @@ http://myxpanel.pro:80/live/Martin/Martin/816007.ts
 http://myxpanel.pro:80/live/Martin/Martin/816006.ts
 #EXTINF:-1 tvg-id="loi8treatyunitedvlongfordtownukfri3rdapr1335vnetfri3rdapr0835vn" tvg-name="LOI 8 | Treaty United v Longford Town // UK Fri 3rd Apr 13:35 (VN) // ET Fri 3rd Apr 08:35 (VN)" tvg-logo="" group-title="LIVE | IRISH FOOTBALL",LOI 8 | Treaty United v Longford Town // UK Fri 3rd Apr 13:35 (VN) // ET Fri 3rd Apr 08:35 (VN)
 http://myxpanel.pro:80/live/Martin/Martin/816003.ts
-#EXTINF:-1 tvg-id="laliga01rayovallecanovselchecffriday03april20260300" tvg-name="La Liga 01ⓧ: Rayo Vallecano vs. Elche CF | Friday, 03 April 2026 03:00" tvg-logo="http://xplatinmedia.com:8080/images/68442c766d25ca9ae06d1d6e0e6b24ac.png" group-title="LIVE | LALIGA",La Liga 01ⓧ: Rayo Vallecano vs. Elche CF | Friday, 03 April 2026 03:00
+#EXTINF:-1 tvg-id="laliga01realmadridvsgironafcfriday10april20260300" tvg-name="La Liga 01ⓧ: Real Madrid vs. Girona FC | Friday, 10 April 2026 03:00" tvg-logo="http://xplatinmedia.com:8080/images/68442c766d25ca9ae06d1d6e0e6b24ac.png" group-title="LIVE | LALIGA",La Liga 01ⓧ: Real Madrid vs. Girona FC | Friday, 10 April 2026 03:00
 http://myxpanel.pro:80/live/Martin/Martin/816050.ts
-#EXTINF:-1 tvg-id="laliga02realsociedadsansebastianvslevanteudsaturday04april20262000" tvg-name="La Liga 02ⓧ: Real Sociedad San Sebastian vs. Levante UD | Saturday, 04 April 2026 20:00" tvg-logo="http://xplatinmedia.com:8080/images/68442c766d25ca9ae06d1d6e0e6b24ac.png" group-title="LIVE | LALIGA",La Liga 02ⓧ: Real Sociedad San Sebastian vs. Levante UD | Saturday, 04 April 2026 20:00
+#EXTINF:-1 tvg-id="laliga02realsociedadsansebastianvsdeportivoalavessaturday11april20262000" tvg-name="La Liga 02ⓧ: Real Sociedad San Sebastian vs. Deportivo Alaves | Saturday, 11 April 2026 20:00" tvg-logo="http://xplatinmedia.com:8080/images/68442c766d25ca9ae06d1d6e0e6b24ac.png" group-title="LIVE | LALIGA",La Liga 02ⓧ: Real Sociedad San Sebastian vs. Deportivo Alaves | Saturday, 11 April 2026 20:00
 http://myxpanel.pro:80/live/Martin/Martin/816049.ts
-#EXTINF:-1 tvg-id="laliga03rcdmallorcavsrealmadridsaturday04april20262215" tvg-name="La Liga 03ⓧ: RCD Mallorca vs. Real Madrid | Saturday, 04 April 2026 22:15" tvg-logo="http://xplatinmedia.com:8080/images/68442c766d25ca9ae06d1d6e0e6b24ac.png" group-title="LIVE | LALIGA",La Liga 03ⓧ: RCD Mallorca vs. Real Madrid | Saturday, 04 April 2026 22:15
+#EXTINF:-1 tvg-id="laliga03elchecfvsvalenciacfsaturday11april20262215" tvg-name="La Liga 03ⓧ: Elche CF vs. Valencia CF | Saturday, 11 April 2026 22:15" tvg-logo="http://xplatinmedia.com:8080/images/68442c766d25ca9ae06d1d6e0e6b24ac.png" group-title="LIVE | LALIGA",La Liga 03ⓧ: Elche CF vs. Valencia CF | Saturday, 11 April 2026 22:15
 http://myxpanel.pro:80/live/Martin/Martin/816048.ts
-#EXTINF:-1 tvg-id="laliga04realbetissevillevsrcdespanyolbarcelonasaturday04april20260030" tvg-name="La Liga 04ⓧ: Real Betis Seville vs. RCD Espanyol Barcelona | Saturday, 04 April 2026 00:30" tvg-logo="http://xplatinmedia.com:8080/images/68442c766d25ca9ae06d1d6e0e6b24ac.png" group-title="LIVE | LALIGA",La Liga 04ⓧ: Real Betis Seville vs. RCD Espanyol Barcelona | Saturday, 04 April 2026 00:30
+#EXTINF:-1 tvg-id="laliga04fcbarcelonavsrcdespanyolbarcelonasaturday11april20260030" tvg-name="La Liga 04ⓧ: FC Barcelona vs. RCD Espanyol Barcelona | Saturday, 11 April 2026 00:30" tvg-logo="http://xplatinmedia.com:8080/images/68442c766d25ca9ae06d1d6e0e6b24ac.png" group-title="LIVE | LALIGA",La Liga 04ⓧ: FC Barcelona vs. RCD Espanyol Barcelona | Saturday, 11 April 2026 00:30
 http://myxpanel.pro:80/live/Martin/Martin/816047.ts
 #EXTINF:-1 tvg-id="laliga05realoviedovsatleticomadridsaturday28february20260300" tvg-name="La Liga 05ⓧ: Real Oviedo vs. Atletico Madrid | Saturday, 28 February 2026 03:00" tvg-logo="http://xplatinmedia.com:8080/images/68442c766d25ca9ae06d1d6e0e6b24ac.png" group-title="LIVE | LALIGA",La Liga 05ⓧ: Real Oviedo vs. Atletico Madrid | Saturday, 28 February 2026 03:00
 http://myxpanel.pro:80/live/Martin/Martin/816046.ts
@@ -1711,30 +1711,28 @@ http://myxpanel.pro:80/live/Martin/Martin/662440.ts
 http://myxpanel.pro:80/live/Martin/Martin/662438.ts
 #EXTINF:-1 tvg-id="denoevent" tvg-name="DE | No Event" tvg-logo="https://w7.pngwing.com/pngs/171/738/png-transparent-france-ligue-1-premier-league-serie-a-paris-saint-germain-f-c-mls-kodi-thumbnail.png" group-title="DE | SPORT",DE | No Event
 http://myxpanel.pro:80/live/Martin/Martin/662437.ts
-#EXTINF:-1 tvg-id="end2026upperaustrialadieslinztennisallprimede" tvg-name="End | 2026 Upper Austria Ladies Linz Tennis | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | 2026 Upper Austria Ladies Linz Tennis | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662321.ts
-#EXTINF:-1 tvg-id="endflensburghandewittsahaarhusallprimede" tvg-name="End | Flensburg-Handewitt - SAH Aarhus | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Flensburg-Handewitt - SAH Aarhus | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662317.ts
-#EXTINF:-1 tvg-id="endmarcofuminknutcharutwmqualifikation2sessionsheffieldenglischerkommentarallprimede" tvg-name="End | Marco Fu - Mink Nutcharut WM | Qualifikation | 2. Session | Sheffield | Englischer Kommentar | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Marco Fu - Mink Nutcharut WM | Qualifikation | 2. Session | Sheffield | Englischer Kommentar | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662313.ts
-#EXTINF:-1 tvg-id="endmtmelsungenfredericiaallprimede" tvg-name="End | MT Melsungen - Fredericia | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | MT Melsungen - Fredericia | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662311.ts
-#EXTINF:-1 tvg-id="endroyalsatguardiansallprimede" tvg-name="End | Royals at Guardians | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Royals at Guardians | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662315.ts
-#EXTINF:-1 tvg-id="endstevenhallworthkreishhgurbaxaniwmqualifikation2sessionsheffieldoriginalsoundallprimede" tvg-name="End | Steven Hallworth - Kreishh Gurbaxani WM | Qualifikation | 2. Session | Sheffield | Original Sound | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Steven Hallworth - Kreishh Gurbaxani WM | Qualifikation | 2. Session | Sheffield | Original Sound | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662320.ts
-#EXTINF:-1 tvg-id="endworldsnookertourallprimede" tvg-name="End | World Snooker Tour | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | World Snooker Tour | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662314.ts
-#EXTINF:-1 tvg-id="livebulcsúrévészcraigsteadmanwmqualifikation2sessionsheffieldoriginalsoundallprimede" tvg-name="Live | Bulcsú Révész - Craig Steadman WM | Qualifikation | 2. Session | Sheffield | Original Sound | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Live | Bulcsú Révész - Craig Steadman WM | Qualifikation | 2. Session | Sheffield | Original Sound | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662316.ts
-#EXTINF:-1 tvg-id="livebulcsúrévészcraigsteadmanwmqualifikation2sessionsheffieldoriginalsoundallprimede" tvg-name="Live | Bulcsú Révész - Craig Steadman WM | Qualifikation | 2. Session | Sheffield | Original Sound | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Live | Bulcsú Révész - Craig Steadman WM | Qualifikation | 2. Session | Sheffield | Original Sound | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662312.ts
-#EXTINF:-1 tvg-id="liveianburnssahilnayyarwmqualifikation2sessionsheffieldoriginalsoundallprimede" tvg-name="Live | Ian Burns - Sahil Nayyar WM | Qualifikation | 2. Session | Sheffield | Original Sound | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Live | Ian Burns - Sahil Nayyar WM | Qualifikation | 2. Session | Sheffield | Original Sound | all | PRIME-DE
+#EXTINF:-1 tvg-id="endbulcsúrévészcraigsteadmanwmqualifikation2sessionsheffieldoriginalsoundallprimede" tvg-name="End | Bulcsú Révész - Craig Steadman WM | Qualifikation | 2. Session | Sheffield | Original Sound | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Bulcsú Révész - Craig Steadman WM | Qualifikation | 2. Session | Sheffield | Original Sound | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662322.ts
-#EXTINF:-1 tvg-id="liveianburnssahilnayyarwmqualifikation2sessionsheffieldoriginalsoundallprimede" tvg-name="Live | Ian Burns - Sahil Nayyar WM | Qualifikation | 2. Session | Sheffield | Original Sound | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Live | Ian Burns - Sahil Nayyar WM | Qualifikation | 2. Session | Sheffield | Original Sound | all | PRIME-DE
+#EXTINF:-1 tvg-id="enddiamondbacksatmetsallprimede" tvg-name="End | Diamondbacks at Mets | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Diamondbacks at Mets | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662311.ts
+#EXTINF:-1 tvg-id="endianburnssahilnayyarwmqualifikation2sessionsheffieldoriginalsoundallprimede" tvg-name="End | Ian Burns - Sahil Nayyar WM | Qualifikation | 2. Session | Sheffield | Original Sound | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Ian Burns - Sahil Nayyar WM | Qualifikation | 2. Session | Sheffield | Original Sound | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662323.ts
+#EXTINF:-1 tvg-id="endianburnssahilnayyarwmqualifikation2sessionsheffieldoriginalsoundallprimede" tvg-name="End | Ian Burns - Sahil Nayyar WM | Qualifikation | 2. Session | Sheffield | Original Sound | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Ian Burns - Sahil Nayyar WM | Qualifikation | 2. Session | Sheffield | Original Sound | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662316.ts
+#EXTINF:-1 tvg-id="endoriolesatwhitesoxallprimede" tvg-name="End | Orioles at White Sox | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Orioles at White Sox | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662312.ts
+#EXTINF:-1 tvg-id="next1404gmtbrewersatredsoxallprimede" tvg-name="Next | 14:04 (GMT) | Brewers at Red Sox | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 14:04 (GMT) | Brewers at Red Sox | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662313.ts
+#EXTINF:-1 tvg-id="next1404gmtcardinalsatnationalsallprimede" tvg-name="Next | 14:04 (GMT) | Cardinals at Nationals | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 14:04 (GMT) | Cardinals at Nationals | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662319.ts
-#EXTINF:-1 tvg-id="liverockleagueday2allprimede" tvg-name="Live | Rock League | Day 2 | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Live | Rock League | Day 2 | all | PRIME-DE
+#EXTINF:-1 tvg-id="next1404gmtcubsatraysallprimede" tvg-name="Next | 14:04 (GMT) | Cubs at Rays | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 14:04 (GMT) | Cubs at Rays | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662318.ts
+#EXTINF:-1 tvg-id="next1404gmtpadresatpiratesallprimede" tvg-name="Next | 14:04 (GMT) | Padres at Pirates | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 14:04 (GMT) | Padres at Pirates | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662320.ts
+#EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
+http://myxpanel.pro:80/live/Martin/Martin/662315.ts
+#EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
+http://myxpanel.pro:80/live/Martin/Martin/662314.ts
 #EXTINF:-1 tvg-id="atskysportaustria1ᵁᴴᴰ" tvg-name="|AT|  Sky Sport Austria 1 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/AUSTRIA/SKYSPORTAUSTRIA.png" group-title="DE | SPORT",|AT|  Sky Sport Austria 1 ᵁᴴᴰ
 http://myxpanel.pro:80/live/Martin/Martin/662369.ts
 #EXTINF:-1 tvg-id="atskysportaustria" tvg-name="|AT| Sky Sport Austria" tvg-logo="http://138.199.27.237:8080/AUSTRIA/SKYSPORTAUSTRIA.png" group-title="DE | SPORT",|AT| Sky Sport Austria
