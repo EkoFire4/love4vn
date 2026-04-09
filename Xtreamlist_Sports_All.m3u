@@ -1755,12 +1755,12 @@ http://myxpanel.pro:80/live/Martin/Martin/662313.ts
 http://myxpanel.pro:80/live/Martin/Martin/662311.ts
 #EXTINF:-1 tvg-id="endpar3contestallprimede" tvg-name="End | Par-3 Contest | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Par-3 Contest | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662318.ts
+#EXTINF:-1 tvg-id="endrockleagueday3allprimede" tvg-name="End | Rock League | Day 3 | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Rock League | Day 3 | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662322.ts
 #EXTINF:-1 tvg-id="endzayasvsennislaunchpressconferenceallprimede" tvg-name="End | Zayas vs. Ennis: Launch Press Conference | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Zayas vs. Ennis: Launch Press Conference | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662316.ts
 #EXTINF:-1 tvg-id="endzhaohanyangmahmoudelhareedywmqualifikationsheffieldoriginalsoundallprimede" tvg-name="End | Zhao Hanyang - Mahmoud El Hareedy WM | Qualifikation | Sheffield | Original Sound | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Zhao Hanyang - Mahmoud El Hareedy WM | Qualifikation | Sheffield | Original Sound | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662312.ts
-#EXTINF:-1 tvg-id="liverockleagueday3allprimede" tvg-name="Live | Rock League | Day 3 | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Live | Rock League | Day 3 | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662322.ts
 #EXTINF:-1 tvg-id="atskysportaustria1ᵁᴴᴰ" tvg-name="|AT|  Sky Sport Austria 1 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/AUSTRIA/SKYSPORTAUSTRIA.png" group-title="DE | SPORT",|AT|  Sky Sport Austria 1 ᵁᴴᴰ
 http://myxpanel.pro:80/live/Martin/Martin/662369.ts
 #EXTINF:-1 tvg-id="atskysportaustria" tvg-name="|AT| Sky Sport Austria" tvg-logo="http://138.199.27.237:8080/AUSTRIA/SKYSPORTAUSTRIA.png" group-title="DE | SPORT",|AT| Sky Sport Austria
