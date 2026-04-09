@@ -1253,10 +1253,6 @@ http://myxpanel.pro:80/live/Martin/Martin/698622.ts
 http://myxpanel.pro:80/live/Martin/Martin/698621.ts
 #EXTINF:-1 tvg-id="peacockevent50" tvg-name=":Peacock Event  50" tvg-logo="" group-title="USA | Peacock Events",:Peacock Event  50
 http://myxpanel.pro:80/live/Martin/Martin/698620.ts
-#EXTINF:-1 tvg-id="awayfeedladattorapr82100vnpeacockevent01" tvg-name="Away Feed LAD at TOR @ Apr 8 21:00 (VN):Peacock Event  01" tvg-logo="" group-title="USA | Peacock Events",Away Feed LAD at TOR @ Apr 8 21:00 (VN):Peacock Event  01
-http://myxpanel.pro:80/live/Martin/Martin/698670.ts
-#EXTINF:-1 tvg-id="homefeedladattorapr82100vnpeacockevent02" tvg-name="Home Feed LAD at TOR @ Apr 8 21:00 (VN):Peacock Event  02" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/157571141760_image-header_pCa_1671040248000/fill/center/top/none/85/800/600/png/image" group-title="USA | Peacock Events",Home Feed LAD at TOR @ Apr 8 21:00 (VN):Peacock Event  02
-http://myxpanel.pro:80/live/Martin/Martin/698669.ts
 #EXTINF:-1 tvg-id="aralkass1hd" tvg-name="AR | Alkass 1 HD" tvg-logo="http://vod-logo.net/photos/1b38ce73c33b069730e2522a9b05a55e.jpg" group-title="AR | SPORTS ⚽",AR | Alkass 1 HD
 http://myxpanel.pro:80/live/Martin/Martin/272154.ts
 #EXTINF:-1 tvg-id="aralkass2hd" tvg-name="AR | Alkass 2 HD" tvg-logo="http://vod-logo.net/photos/f275d5b3fa7145127b8f39c6b4f85dab.jpg" group-title="AR | SPORTS ⚽",AR | Alkass 2 HD
@@ -5041,16 +5037,6 @@ http://myxpanel.pro:80/live/Martin/Martin/732214.ts
 http://myxpanel.pro:80/live/Martin/Martin/732213.ts
 #EXTINF:-1 tvg-id="maxus99" tvg-name=":MAX US 99" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",:MAX US 99
 http://myxpanel.pro:80/live/Martin/Martin/732212.ts
-#EXTINF:-1 tvg-id="nbcsports03" tvg-name=":Nbc Sports  03" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",:Nbc Sports  03
-http://myxpanel.pro:80/live/Martin/Martin/780233.ts
-#EXTINF:-1 tvg-id="nbcsports04" tvg-name=":Nbc Sports  04" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",:Nbc Sports  04
-http://myxpanel.pro:80/live/Martin/Martin/780232.ts
-#EXTINF:-1 tvg-id="nbcsports05" tvg-name=":Nbc Sports  05" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",:Nbc Sports  05
-http://myxpanel.pro:80/live/Martin/Martin/780231.ts
-#EXTINF:-1 tvg-id="nbcsports06" tvg-name=":Nbc Sports  06" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",:Nbc Sports  06
-http://myxpanel.pro:80/live/Martin/Martin/780230.ts
-#EXTINF:-1 tvg-id="nbcsports07" tvg-name=":Nbc Sports  07" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",:Nbc Sports  07
-http://myxpanel.pro:80/live/Martin/Martin/780229.ts
 #EXTINF:-1 tvg-id="nbcsports08" tvg-name=":Nbc Sports  08" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",:Nbc Sports  08
 http://myxpanel.pro:80/live/Martin/Martin/780228.ts
 #EXTINF:-1 tvg-id="nbcsports09" tvg-name=":Nbc Sports  09" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",:Nbc Sports  09
@@ -5137,10 +5123,16 @@ http://myxpanel.pro:80/live/Martin/Martin/780188.ts
 http://myxpanel.pro:80/live/Martin/Martin/780187.ts
 #EXTINF:-1 tvg-id="nbcsports50" tvg-name=":Nbc Sports  50" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",:Nbc Sports  50
 http://myxpanel.pro:80/live/Martin/Martin/780186.ts
-#EXTINF:-1 tvg-id="mlbathleticsvsyankeesapr80030vnnbcsports02" tvg-name="MLB: Athletics vs Yankees @ Apr 8 00:30 (VN):Nbc Sports  02" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",MLB: Athletics vs Yankees @ Apr 8 00:30 (VN):Nbc Sports  02
-http://myxpanel.pro:80/live/Martin/Martin/780234.ts
-#EXTINF:-1 tvg-id="mlbphilliesvsgiantsapr82100vnnbcsports01" tvg-name="MLB: Phillies vs Giants @ Apr 8 21:00 (VN):Nbc Sports  01" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",MLB: Phillies vs Giants @ Apr 8 21:00 (VN):Nbc Sports  01
+#EXTINF:-1 tvg-id="mlbathleticsvsyankeesapr91900vnnbcsports01" tvg-name="MLB: Athletics vs Yankees @ Apr 9 19:00 (VN):Nbc Sports  01" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",MLB: Athletics vs Yankees @ Apr 9 19:00 (VN):Nbc Sports  01
 http://myxpanel.pro:80/live/Martin/Martin/780235.ts
+#EXTINF:-1 tvg-id="nba76ersvsrocketsapr90130vnnbcsports04" tvg-name="NBA: 76ers vs Rockets @ Apr 9 01:30 (VN):Nbc Sports  04" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",NBA: 76ers vs Rockets @ Apr 9 01:30 (VN):Nbc Sports  04
+http://myxpanel.pro:80/live/Martin/Martin/780232.ts
+#EXTINF:-1 tvg-id="nbacelticspostgameliveapr90400vnnbcsports07" tvg-name="NBA: Celtics Postgame Live @ Apr 9 04:00 (VN):Nbc Sports  07" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",NBA: Celtics Postgame Live @ Apr 9 04:00 (VN):Nbc Sports  07
+http://myxpanel.pro:80/live/Martin/Martin/780229.ts
+#EXTINF:-1 tvg-id="nbacelticspregameliveapr90030vnnbcsports02" tvg-name="NBA: Celtics Pregame Live @ Apr 9 00:30 (VN):Nbc Sports  02" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",NBA: Celtics Pregame Live @ Apr 9 00:30 (VN):Nbc Sports  02
+http://myxpanel.pro:80/live/Martin/Martin/780234.ts
+#EXTINF:-1 tvg-id="nbawarriorspregameliveapr90300vnnbcsports05" tvg-name="NBA: Warriors Pregame Live @ Apr 9 03:00 (VN):Nbc Sports  05" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",NBA: Warriors Pregame Live @ Apr 9 03:00 (VN):Nbc Sports  05
+http://myxpanel.pro:80/live/Martin/Martin/780231.ts
 #EXTINF:-1 tvg-id="peacockoriginal1" tvg-name="Peacock Original 1" tvg-logo="https://iili.io/PSF1VV.md.png" group-title="USA | Peacock Series Originals",Peacock Original 1
 http://myxpanel.pro:80/live/Martin/Martin/271191.ts
 #EXTINF:-1 tvg-id="peacockoriginal10" tvg-name="Peacock Original 10" tvg-logo="https://iili.io/PSF1VV.md.png" group-title="USA | Peacock Series Originals",Peacock Original 10
