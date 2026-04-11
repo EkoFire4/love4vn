@@ -1167,32 +1167,6 @@ http://myxpanel.pro:80/live/Martin/Martin/800011.ts
 http://myxpanel.pro:80/live/Martin/Martin/800002.ts
 #EXTINF:-1 tvg-id="ukhdpremiersports2irishversion" tvg-name="UKHD Premier Sports 2 ( Irish Version )" tvg-logo="https://premiersportsireland.com/wp-content/uploads/2023/04/premier-sports-2-landscape-1.svg" group-title="UK | SPORTS",UKHD Premier Sports 2 ( Irish Version )
 http://myxpanel.pro:80/live/Martin/Martin/800001.ts
-#EXTINF:-1 tvg-id="peacockevent05" tvg-name=":Peacock Event  05" tvg-logo="http://xplatinmedia.com:8080/images/a70541484c82e651fdecae4f5938fc87.png" group-title="USA | Peacock Events",:Peacock Event  05
-http://myxpanel.pro:80/live/Martin/Martin/698666.ts
-#EXTINF:-1 tvg-id="peacockevent06" tvg-name=":Peacock Event  06" tvg-logo="" group-title="USA | Peacock Events",:Peacock Event  06
-http://myxpanel.pro:80/live/Martin/Martin/698665.ts
-#EXTINF:-1 tvg-id="peacockevent07" tvg-name=":Peacock Event  07" tvg-logo="" group-title="USA | Peacock Events",:Peacock Event  07
-http://myxpanel.pro:80/live/Martin/Martin/698664.ts
-#EXTINF:-1 tvg-id="peacockevent08" tvg-name=":Peacock Event  08" tvg-logo="" group-title="USA | Peacock Events",:Peacock Event  08
-http://myxpanel.pro:80/live/Martin/Martin/698663.ts
-#EXTINF:-1 tvg-id="peacockevent09" tvg-name=":Peacock Event  09" tvg-logo="" group-title="USA | Peacock Events",:Peacock Event  09
-http://myxpanel.pro:80/live/Martin/Martin/698662.ts
-#EXTINF:-1 tvg-id="peacockevent10" tvg-name=":Peacock Event  10" tvg-logo="" group-title="USA | Peacock Events",:Peacock Event  10
-http://myxpanel.pro:80/live/Martin/Martin/698661.ts
-#EXTINF:-1 tvg-id="peacockevent11" tvg-name=":Peacock Event  11" tvg-logo="" group-title="USA | Peacock Events",:Peacock Event  11
-http://myxpanel.pro:80/live/Martin/Martin/698660.ts
-#EXTINF:-1 tvg-id="peacockevent12" tvg-name=":Peacock Event  12" tvg-logo="" group-title="USA | Peacock Events",:Peacock Event  12
-http://myxpanel.pro:80/live/Martin/Martin/698659.ts
-#EXTINF:-1 tvg-id="peacockevent13" tvg-name=":Peacock Event  13" tvg-logo="http://138.199.27.237:8080/USA/PEACOCK.png" group-title="USA | Peacock Events",:Peacock Event  13
-http://myxpanel.pro:80/live/Martin/Martin/698658.ts
-#EXTINF:-1 tvg-id="peacockevent14" tvg-name=":Peacock Event  14" tvg-logo="" group-title="USA | Peacock Events",:Peacock Event  14
-http://myxpanel.pro:80/live/Martin/Martin/698657.ts
-#EXTINF:-1 tvg-id="peacockevent15" tvg-name=":Peacock Event  15" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent14.png" group-title="USA | Peacock Events",:Peacock Event  15
-http://myxpanel.pro:80/live/Martin/Martin/698656.ts
-#EXTINF:-1 tvg-id="peacockevent16" tvg-name=":Peacock Event  16" tvg-logo="" group-title="USA | Peacock Events",:Peacock Event  16
-http://myxpanel.pro:80/live/Martin/Martin/698655.ts
-#EXTINF:-1 tvg-id="peacockevent17" tvg-name=":Peacock Event  17" tvg-logo="" group-title="USA | Peacock Events",:Peacock Event  17
-http://myxpanel.pro:80/live/Martin/Martin/698654.ts
 #EXTINF:-1 tvg-id="peacockevent18" tvg-name=":Peacock Event  18" tvg-logo="" group-title="USA | Peacock Events",:Peacock Event  18
 http://myxpanel.pro:80/live/Martin/Martin/698653.ts
 #EXTINF:-1 tvg-id="peacockevent19" tvg-name=":Peacock Event  19" tvg-logo="" group-title="USA | Peacock Events",:Peacock Event  19
@@ -1259,14 +1233,38 @@ http://myxpanel.pro:80/live/Martin/Martin/698622.ts
 http://myxpanel.pro:80/live/Martin/Martin/698621.ts
 #EXTINF:-1 tvg-id="peacockevent50" tvg-name=":Peacock Event  50" tvg-logo="" group-title="USA | Peacock Events",:Peacock Event  50
 http://myxpanel.pro:80/live/Martin/Martin/698620.ts
-#EXTINF:-1 tvg-id="awayfeedbosatstlapr100200vnpeacockevent02" tvg-name="Away Feed BOS at STL @ Apr 10 02:00 (VN):Peacock Event  02" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/157571141760_image-header_pCa_1671040248000/fill/center/top/none/85/800/600/png/image" group-title="USA | Peacock Events",Away Feed BOS at STL @ Apr 10 02:00 (VN):Peacock Event  02
-http://myxpanel.pro:80/live/Martin/Martin/698669.ts
-#EXTINF:-1 tvg-id="fcjuárezvstijuanaespañolapr100430vnpeacockevent04" tvg-name="FC Juárez vs Tijuana Español @ Apr 10 04:30 (VN):Peacock Event  04" tvg-logo="" group-title="USA | Peacock Events",FC Juárez vs Tijuana Español @ Apr 10 04:30 (VN):Peacock Event  04
+#EXTINF:-1 tvg-id="ascentfcvlexingtonscapr110100vnpeacockevent14" tvg-name="Ascent FC v Lexington SC @ Apr 11 01:00 (VN):Peacock Event  14" tvg-logo="" group-title="USA | Peacock Events",Ascent FC v Lexington SC @ Apr 11 01:00 (VN):Peacock Event  14
+http://myxpanel.pro:80/live/Martin/Martin/698657.ts
+#EXTINF:-1 tvg-id="awayfeedathatnymapr112200vnpeacockevent09" tvg-name="Away Feed ATH at NYM @ Apr 11 22:00 (VN):Peacock Event  09" tvg-logo="" group-title="USA | Peacock Events",Away Feed ATH at NYM @ Apr 11 22:00 (VN):Peacock Event  09
+http://myxpanel.pro:80/live/Martin/Martin/698662.ts
+#EXTINF:-1 tvg-id="burnleyvbrightonapr111550vnpeacockevent05" tvg-name="Burnley v Brighton @ Apr 11 15:50 (VN):Peacock Event  05" tvg-logo="http://xplatinmedia.com:8080/images/a70541484c82e651fdecae4f5938fc87.png" group-title="USA | Peacock Events",Burnley v Brighton @ Apr 11 15:50 (VN):Peacock Event  05
+http://myxpanel.pro:80/live/Martin/Martin/698666.ts
+#EXTINF:-1 tvg-id="englandvirelandapr111525vnpeacockevent04" tvg-name="England v Ireland @ Apr 11 15:25 (VN):Peacock Event  04" tvg-logo="" group-title="USA | Peacock Events",England v Ireland @ Apr 11 15:25 (VN):Peacock Event  04
 http://myxpanel.pro:80/live/Martin/Martin/698667.ts
-#EXTINF:-1 tvg-id="homefeedbosatstlapr100200vnpeacockevent03" tvg-name="Home Feed BOS at STL @ Apr 10 02:00 (VN):Peacock Event  03" tvg-logo="" group-title="USA | Peacock Events",Home Feed BOS at STL @ Apr 10 02:00 (VN):Peacock Event  03
-http://myxpanel.pro:80/live/Martin/Martin/698668.ts
-#EXTINF:-1 tvg-id="shortprogramapr101700vnpeacockevent01" tvg-name="Short Program @ Apr 10 17:00 (VN):Peacock Event  01" tvg-logo="" group-title="USA | Peacock Events",Short Program @ Apr 10 17:00 (VN):Peacock Event  01
+#EXTINF:-1 tvg-id="francevitalyapr111325vnpeacockevent01" tvg-name="France v Italy @ Apr 11 13:25 (VN):Peacock Event  01" tvg-logo="" group-title="USA | Peacock Events",France v Italy @ Apr 11 13:25 (VN):Peacock Event  01
 http://myxpanel.pro:80/live/Martin/Martin/698670.ts
+#EXTINF:-1 tvg-id="freeskateapr111500vnpeacockevent02" tvg-name="Free Skate @ Apr 11 15:00 (VN):Peacock Event  02" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/157571141760_image-header_pCa_1671040248000/fill/center/top/none/85/800/600/png/image" group-title="USA | Peacock Events",Free Skate @ Apr 11 15:00 (VN):Peacock Event  02
+http://myxpanel.pro:80/live/Martin/Martin/698669.ts
+#EXTINF:-1 tvg-id="ftlunitedvsportingjaxapr112200vnpeacockevent11" tvg-name="FTL United v Sporting JAX @ Apr 11 22:00 (VN):Peacock Event  11" tvg-logo="" group-title="USA | Peacock Events",FTL United v Sporting JAX @ Apr 11 22:00 (VN):Peacock Event  11
+http://myxpanel.pro:80/live/Martin/Martin/698660.ts
+#EXTINF:-1 tvg-id="homefeedathatnymapr112200vnpeacockevent10" tvg-name="Home Feed ATH at NYM @ Apr 11 22:00 (VN):Peacock Event  10" tvg-logo="" group-title="USA | Peacock Events",Home Feed ATH at NYM @ Apr 11 22:00 (VN):Peacock Event  10
+http://myxpanel.pro:80/live/Martin/Martin/698661.ts
+#EXTINF:-1 tvg-id="liverpoolvfulhamapr111830vnpeacockevent07" tvg-name="Liverpool v Fulham @ Apr 11 18:30 (VN):Peacock Event  07" tvg-logo="" group-title="USA | Peacock Events",Liverpool v Fulham @ Apr 11 18:30 (VN):Peacock Event  07
+http://myxpanel.pro:80/live/Martin/Martin/698664.ts
+#EXTINF:-1 tvg-id="mensnikehoopsummitapr110330vnpeacockevent17" tvg-name="Mens Nike Hoop Summit @ Apr 11 03:30 (VN):Peacock Event  17" tvg-logo="" group-title="USA | Peacock Events",Mens Nike Hoop Summit @ Apr 11 03:30 (VN):Peacock Event  17
+http://myxpanel.pro:80/live/Martin/Martin/698654.ts
+#EXTINF:-1 tvg-id="racedaylivenashvilleapr111500vnpeacockevent03" tvg-name="Race Day Live Nashville @ Apr 11 15:00 (VN):Peacock Event  03" tvg-logo="" group-title="USA | Peacock Events",Race Day Live Nashville @ Apr 11 15:00 (VN):Peacock Event  03
+http://myxpanel.pro:80/live/Martin/Martin/698668.ts
+#EXTINF:-1 tvg-id="sunfcvpowerfcapr110130vnpeacockevent16" tvg-name="Sun FC v Power FC @ Apr 11 01:30 (VN):Peacock Event  16" tvg-logo="" group-title="USA | Peacock Events",Sun FC v Power FC @ Apr 11 01:30 (VN):Peacock Event  16
+http://myxpanel.pro:80/live/Martin/Martin/698655.ts
+#EXTINF:-1 tvg-id="tigresvschivasespañolapr110055vnpeacockevent13" tvg-name="Tigres vs Chivas Español @ Apr 11 00:55 (VN):Peacock Event  13" tvg-logo="http://138.199.27.237:8080/USA/PEACOCK.png" group-title="USA | Peacock Events",Tigres vs Chivas Español @ Apr 11 00:55 (VN):Peacock Event  13
+http://myxpanel.pro:80/live/Martin/Martin/698658.ts
+#EXTINF:-1 tvg-id="usavsjapanespañolapr112300vnpeacockevent12" tvg-name="USA vs Japan Español @ Apr 11 23:00 (VN):Peacock Event  12" tvg-logo="" group-title="USA | Peacock Events",USA vs Japan Español @ Apr 11 23:00 (VN):Peacock Event  12
+http://myxpanel.pro:80/live/Martin/Martin/698659.ts
+#EXTINF:-1 tvg-id="walesvscotlandapr111740vnpeacockevent06" tvg-name="Wales v Scotland @ Apr 11 17:40 (VN):Peacock Event  06" tvg-logo="" group-title="USA | Peacock Events",Wales v Scotland @ Apr 11 17:40 (VN):Peacock Event  06
+http://myxpanel.pro:80/live/Martin/Martin/698665.ts
+#EXTINF:-1 tvg-id="womensnikehoopsummitapr110100vnpeacockevent15" tvg-name="Womens Nike Hoop Summit @ Apr 11 01:00 (VN):Peacock Event  15" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent14.png" group-title="USA | Peacock Events",Womens Nike Hoop Summit @ Apr 11 01:00 (VN):Peacock Event  15
+http://myxpanel.pro:80/live/Martin/Martin/698656.ts
 #EXTINF:-1 tvg-id="aralkass1hd" tvg-name="AR | Alkass 1 HD" tvg-logo="http://vod-logo.net/photos/1b38ce73c33b069730e2522a9b05a55e.jpg" group-title="AR | SPORTS ⚽",AR | Alkass 1 HD
 http://myxpanel.pro:80/live/Martin/Martin/272154.ts
 #EXTINF:-1 tvg-id="aralkass2hd" tvg-name="AR | Alkass 2 HD" tvg-logo="http://vod-logo.net/photos/f275d5b3fa7145127b8f39c6b4f85dab.jpg" group-title="AR | SPORTS ⚽",AR | Alkass 2 HD
@@ -1343,19 +1341,13 @@ http://myxpanel.pro:80/live/Martin/Martin/272133.ts
 http://myxpanel.pro:80/live/Martin/Martin/758488.ts
 #EXTINF:-1 tvg-id="thamanya2fhd" tvg-name="Thamanya 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Thmanyah_Logo.svg/900px-Thmanyah_Logo.svg.png" group-title="AR | SPORTS ⚽",Thamanya 2 FHD
 http://myxpanel.pro:80/live/Martin/Martin/758486.ts
-#EXTINF:-1 tvg-id="2026worldvolleyballbeachprotourday3court1saquaremabraapr101400vncbcgem03" tvg-name="2026 World Volleyball Beach Pro Tour: DAY 3 - Court 1 - Saquarema, BRA @ Apr 10 14:00 (VN):CBC Gem  03" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",2026 World Volleyball Beach Pro Tour: DAY 3 - Court 1 - Saquarema, BRA @ Apr 10 14:00 (VN):CBC Gem  03
-http://myxpanel.pro:80/live/Martin/Martin/805950.ts
-#EXTINF:-1 tvg-id="2026worldvolleyballbeachprotourday3court2saquaremabraapr101400vncbcgem04" tvg-name="2026 World Volleyball Beach Pro Tour: DAY 3 - Court 2 - Saquarema, BRA @ Apr 10 14:00 (VN):CBC Gem  04" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",2026 World Volleyball Beach Pro Tour: DAY 3 - Court 2 - Saquarema, BRA @ Apr 10 14:00 (VN):CBC Gem  04
-http://myxpanel.pro:80/live/Martin/Martin/805949.ts
-#EXTINF:-1 tvg-id="2026worldvolleyballbeachprotourday3court3saquaremabraapr101400vncbcgem05" tvg-name="2026 World Volleyball Beach Pro Tour: DAY 3 - Court 3 - Saquarema, BRA @ Apr 10 14:00 (VN):CBC Gem  05" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",2026 World Volleyball Beach Pro Tour: DAY 3 - Court 3 - Saquarema, BRA @ Apr 10 14:00 (VN):CBC Gem  05
+#EXTINF:-1 tvg-id="2026worldvolleyballbeachprotourday4court1saquaremabraapr111500vncbcgem05" tvg-name="2026 World Volleyball Beach Pro Tour: DAY 4 - Court 1 - Saquarema, BRA @ Apr 11 15:00 (VN):CBC Gem  05" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",2026 World Volleyball Beach Pro Tour: DAY 4 - Court 1 - Saquarema, BRA @ Apr 11 15:00 (VN):CBC Gem  05
 http://myxpanel.pro:80/live/Martin/Martin/805948.ts
-#EXTINF:-1 tvg-id="2026worldvolleyballbeachprotourday4court1saquaremabraapr111500vncbcgem21" tvg-name="2026 World Volleyball Beach Pro Tour: DAY 4 - Court 1 - Saquarema, BRA @ Apr 11 15:00 (VN):CBC Gem  21" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",2026 World Volleyball Beach Pro Tour: DAY 4 - Court 1 - Saquarema, BRA @ Apr 11 15:00 (VN):CBC Gem  21
-http://myxpanel.pro:80/live/Martin/Martin/805932.ts
-#EXTINF:-1 tvg-id="2026worldvolleyballbeachprotourday4court2saquaremabraapr111500vncbcgem20" tvg-name="2026 World Volleyball Beach Pro Tour: DAY 4 - Court 2 - Saquarema, BRA @ Apr 11 15:00 (VN):CBC Gem  20" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",2026 World Volleyball Beach Pro Tour: DAY 4 - Court 2 - Saquarema, BRA @ Apr 11 15:00 (VN):CBC Gem  20
-http://myxpanel.pro:80/live/Martin/Martin/805933.ts
-#EXTINF:-1 tvg-id="cbcgem22" tvg-name=":CBC Gem  22" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",:CBC Gem  22
-http://myxpanel.pro:80/live/Martin/Martin/805931.ts
-#EXTINF:-1 tvg-id="cbcgem23" tvg-name=":CBC Gem  23" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",:CBC Gem  23
+#EXTINF:-1 tvg-id="2026worldvolleyballbeachprotourday4court2saquaremabraapr111500vncbcgem04" tvg-name="2026 World Volleyball Beach Pro Tour: DAY 4 - Court 2 - Saquarema, BRA @ Apr 11 15:00 (VN):CBC Gem  04" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",2026 World Volleyball Beach Pro Tour: DAY 4 - Court 2 - Saquarema, BRA @ Apr 11 15:00 (VN):CBC Gem  04
+http://myxpanel.pro:80/live/Martin/Martin/805949.ts
+#EXTINF:-1 tvg-id="2026worldvolleyballbeachprotourday4court3saquaremabraapr111600vncbcgem06" tvg-name="2026 World Volleyball Beach Pro Tour: DAY 4 - Court 3 - Saquarema, BRA @ Apr 11 16:00 (VN):CBC Gem  06" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",2026 World Volleyball Beach Pro Tour: DAY 4 - Court 3 - Saquarema, BRA @ Apr 11 16:00 (VN):CBC Gem  06
+http://myxpanel.pro:80/live/Martin/Martin/805947.ts
+#EXTINF:-1 tvg-id="2026worldvolleyballbeachprotourday5court1saquaremabraapr121400vncbcgem23" tvg-name="2026 World Volleyball Beach Pro Tour: DAY 5 - Court 1 - Saquarema, BRA @ Apr 12 14:00 (VN):CBC Gem  23" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",2026 World Volleyball Beach Pro Tour: DAY 5 - Court 1 - Saquarema, BRA @ Apr 12 14:00 (VN):CBC Gem  23
 http://myxpanel.pro:80/live/Martin/Martin/805930.ts
 #EXTINF:-1 tvg-id="cbcgem24" tvg-name=":CBC Gem  24" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",:CBC Gem  24
 http://myxpanel.pro:80/live/Martin/Martin/805929.ts
@@ -1411,34 +1403,40 @@ http://myxpanel.pro:80/live/Martin/Martin/805905.ts
 http://myxpanel.pro:80/live/Martin/Martin/805904.ts
 #EXTINF:-1 tvg-id="cbcgem50" tvg-name=":CBC Gem  50" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",:CBC Gem  50
 http://myxpanel.pro:80/live/Martin/Martin/805903.ts
-#EXTINF:-1 tvg-id="canadacupofdivingmen10mrepechageapr102240vncbcgem13" tvg-name="Canada Cup of Diving: Men 10m - Repechage @ Apr 10 22:40 (VN):CBC Gem  13" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",Canada Cup of Diving: Men 10m - Repechage @ Apr 10 22:40 (VN):CBC Gem  13
-http://myxpanel.pro:80/live/Martin/Martin/805940.ts
-#EXTINF:-1 tvg-id="canadacupofdivingmens10mprelimsapr101840vncbcgem10" tvg-name="Canada Cup of Diving: Men’s 10M Prelims @ Apr 10 18:40 (VN):CBC Gem  10" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",Canada Cup of Diving: Men’s 10M Prelims @ Apr 10 18:40 (VN):CBC Gem  10
-http://myxpanel.pro:80/live/Martin/Martin/805943.ts
-#EXTINF:-1 tvg-id="canadacupofdivingteameventfinalapr100025vncbcgem14" tvg-name="Canada Cup of Diving: Team Event Final @ Apr 10 00:25 (VN):CBC Gem  14" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",Canada Cup of Diving: Team Event Final @ Apr 10 00:25 (VN):CBC Gem  14
-http://myxpanel.pro:80/live/Martin/Martin/805939.ts
-#EXTINF:-1 tvg-id="canadacupofdivingwomens3mrepechageapr102115vncbcgem11" tvg-name="Canada Cup of Diving: Women's 3m Repechage @ Apr 10 21:15 (VN):CBC Gem  11" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",Canada Cup of Diving: Women's 3m Repechage @ Apr 10 21:15 (VN):CBC Gem  11
-http://myxpanel.pro:80/live/Martin/Martin/805942.ts
-#EXTINF:-1 tvg-id="canadacupofdivingwomens3mprelimsapr101600vncbcgem07" tvg-name="Canada Cup of Diving: Women’s 3M Prelims @ Apr 10 16:00 (VN):CBC Gem  07" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",Canada Cup of Diving: Women’s 3M Prelims @ Apr 10 16:00 (VN):CBC Gem  07
-http://myxpanel.pro:80/live/Martin/Martin/805946.ts
-#EXTINF:-1 tvg-id="rockleaguealpinecurlingclubvstyphooncurlingclubtorontoapr102130vncbcgem12" tvg-name="Rock League: Alpine Curling Club vs Typhoon Curling Club - Toronto @ Apr 10 21:30 (VN):CBC Gem  12" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",Rock League: Alpine Curling Club vs Typhoon Curling Club - Toronto @ Apr 10 21:30 (VN):CBC Gem  12
+#EXTINF:-1 tvg-id="canadacupofdivingmens10msynchrofinalapr112025vncbcgem12" tvg-name="Canada Cup of Diving: Men's 10M Synchro Final @ Apr 11 20:25 (VN):CBC Gem  12" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",Canada Cup of Diving: Men's 10M Synchro Final @ Apr 11 20:25 (VN):CBC Gem  12
 http://myxpanel.pro:80/live/Martin/Martin/805941.ts
-#EXTINF:-1 tvg-id="rockleaguefrontiercurlingclubvsnorthernunitedtorontoapr101800vncbcgem09" tvg-name="Rock League: Frontier Curling Club vs Northern United - Toronto @ Apr 10 18:00 (VN):CBC Gem  09" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",Rock League: Frontier Curling Club vs Northern United - Toronto @ Apr 10 18:00 (VN):CBC Gem  09
-http://myxpanel.pro:80/live/Martin/Martin/805944.ts
-#EXTINF:-1 tvg-id="rockleagueshieldcurlingclubvsmapleunitedtorontoapr100025vncbcgem15" tvg-name="Rock League: Shield Curling Club vs Maple United - Toronto @ Apr 10 00:25 (VN):CBC Gem  15" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",Rock League: Shield Curling Club vs Maple United - Toronto @ Apr 10 00:25 (VN):CBC Gem  15
-http://myxpanel.pro:80/live/Martin/Martin/805938.ts
-#EXTINF:-1 tvg-id="speedocanadianswimmingopenday2finalsapr100100vncbcgem16" tvg-name="Speedo Canadian Swimming Open: Day 2 - Finals @ Apr 10 01:00 (VN):CBC Gem  16" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",Speedo Canadian Swimming Open: Day 2 - Finals @ Apr 10 01:00 (VN):CBC Gem  16
-http://myxpanel.pro:80/live/Martin/Martin/805937.ts
-#EXTINF:-1 tvg-id="speedocanadianswimmingopenday2prelimsapr101730vncbcgem08" tvg-name="Speedo Canadian Swimming Open: Day 2 - Prelims @ Apr 10 17:30 (VN):CBC Gem  08" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",Speedo Canadian Swimming Open: Day 2 - Prelims @ Apr 10 17:30 (VN):CBC Gem  08
-http://myxpanel.pro:80/live/Martin/Martin/805945.ts
-#EXTINF:-1 tvg-id="uipmpentathlonworldcupmensemifinalacairoapr101100vncbcgem01" tvg-name="UIPM Pentathlon World Cup: Men Semi Final A - Cairo @ Apr 10 11:00 (VN):CBC Gem  01" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",UIPM Pentathlon World Cup: Men Semi Final A - Cairo @ Apr 10 11:00 (VN):CBC Gem  01
-http://myxpanel.pro:80/live/Martin/Martin/805952.ts
-#EXTINF:-1 tvg-id="uipmpentathlonworldcupmensemifinalbcairoapr101500vncbcgem06" tvg-name="UIPM Pentathlon World Cup: Men Semi Final B - Cairo @ Apr 10 15:00 (VN):CBC Gem  06" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",UIPM Pentathlon World Cup: Men Semi Final B - Cairo @ Apr 10 15:00 (VN):CBC Gem  06
-http://myxpanel.pro:80/live/Martin/Martin/805947.ts
-#EXTINF:-1 tvg-id="uipmpentathlonworldcupwomensemifinalacairoapr111100vncbcgem18" tvg-name="UIPM Pentathlon World Cup: Women Semi Final A - Cairo @ Apr 11 11:00 (VN):CBC Gem  18" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",UIPM Pentathlon World Cup: Women Semi Final A - Cairo @ Apr 11 11:00 (VN):CBC Gem  18
-http://myxpanel.pro:80/live/Martin/Martin/805935.ts
-#EXTINF:-1 tvg-id="uipmpentathlonworldcupwomensemifinalbcairoapr111500vncbcgem19" tvg-name="UIPM Pentathlon World Cup: Women Semi Final B - Cairo @ Apr 11 15:00 (VN):CBC Gem  19" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",UIPM Pentathlon World Cup: Women Semi Final B - Cairo @ Apr 11 15:00 (VN):CBC Gem  19
+#EXTINF:-1 tvg-id="canadacupofdivingmens3mfinalapr111600vncbcgem07" tvg-name="Canada Cup of Diving: Men's 3M Final @ Apr 11 16:00 (VN):CBC Gem  07" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",Canada Cup of Diving: Men's 3M Final @ Apr 11 16:00 (VN):CBC Gem  07
+http://myxpanel.pro:80/live/Martin/Martin/805946.ts
+#EXTINF:-1 tvg-id="canadacupofdivingwomens10mfinalapr112215vncbcgem14" tvg-name="Canada Cup of Diving: Women's 10M Final @ Apr 11 22:15 (VN):CBC Gem  14" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",Canada Cup of Diving: Women's 10M Final @ Apr 11 22:15 (VN):CBC Gem  14
+http://myxpanel.pro:80/live/Martin/Martin/805939.ts
+#EXTINF:-1 tvg-id="canadacupofdivingwomens3msynchrofinalapr111810vncbcgem10" tvg-name="Canada Cup of Diving: Women's 3M Synchro Final @ Apr 11 18:10 (VN):CBC Gem  10" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",Canada Cup of Diving: Women's 3M Synchro Final @ Apr 11 18:10 (VN):CBC Gem  10
+http://myxpanel.pro:80/live/Martin/Martin/805943.ts
+#EXTINF:-1 tvg-id="cbcsportslatenightrockleagueapr120730vncbcgem19" tvg-name="CBC Sports Late Night: Rock League @ Apr 12 07:30 (VN):CBC Gem  19" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",CBC Sports Late Night: Rock League @ Apr 12 07:30 (VN):CBC Gem  19
 http://myxpanel.pro:80/live/Martin/Martin/805934.ts
+#EXTINF:-1 tvg-id="cbcsportscanadacupdivingwindsorapr112300vncbcgem15" tvg-name="CBC Sports: Canada Cup Diving - Windsor @ Apr 11 23:00 (VN):CBC Gem  15" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",CBC Sports: Canada Cup Diving - Windsor @ Apr 11 23:00 (VN):CBC Gem  15
+http://myxpanel.pro:80/live/Martin/Martin/805938.ts
+#EXTINF:-1 tvg-id="cploncbcpacificvssupraapr110000vncbcgem16" tvg-name="CPL on CBC: Pacific vs Supra @ Apr 11 00:00 (VN):CBC Gem  16" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",CPL on CBC: Pacific vs Supra @ Apr 11 00:00 (VN):CBC Gem  16
+http://myxpanel.pro:80/live/Martin/Martin/805937.ts
+#EXTINF:-1 tvg-id="rockleagueoncbc1vs6torontoapr111800vncbcgem09" tvg-name="Rock League on CBC: 1 vs 6 - Toronto @ Apr 11 18:00 (VN):CBC Gem  09" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",Rock League on CBC: 1 vs 6 - Toronto @ Apr 11 18:00 (VN):CBC Gem  09
+http://myxpanel.pro:80/live/Martin/Martin/805944.ts
+#EXTINF:-1 tvg-id="rockleague2vs5torontoapr112130vncbcgem13" tvg-name="Rock League:  2 vs 5 - Toronto @ Apr 11 21:30 (VN):CBC Gem  13" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",Rock League:  2 vs 5 - Toronto @ Apr 11 21:30 (VN):CBC Gem  13
+http://myxpanel.pro:80/live/Martin/Martin/805940.ts
+#EXTINF:-1 tvg-id="rockleague3vs4torontoapr110025vncbcgem17" tvg-name="Rock League:  3 vs 4 - Toronto @ Apr 11 00:25 (VN):CBC Gem  17" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",Rock League:  3 vs 4 - Toronto @ Apr 11 00:25 (VN):CBC Gem  17
+http://myxpanel.pro:80/live/Martin/Martin/805936.ts
+#EXTINF:-1 tvg-id="speedocanadianswimmingopenday3finalsapr110100vncbcgem18" tvg-name="Speedo Canadian Swimming Open: Day 3 - Finals @ Apr 11 01:00 (VN):CBC Gem  18" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",Speedo Canadian Swimming Open: Day 3 - Finals @ Apr 11 01:00 (VN):CBC Gem  18
+http://myxpanel.pro:80/live/Martin/Martin/805935.ts
+#EXTINF:-1 tvg-id="speedocanadianswimmingopenday3prelimsapr111730vncbcgem08" tvg-name="Speedo Canadian Swimming Open: Day 3 - Prelims @ Apr 11 17:30 (VN):CBC Gem  08" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",Speedo Canadian Swimming Open: Day 3 - Prelims @ Apr 11 17:30 (VN):CBC Gem  08
+http://myxpanel.pro:80/live/Martin/Martin/805945.ts
+#EXTINF:-1 tvg-id="uipmpentathlonworldcupmensfinalcairoapr121000vncbcgem20" tvg-name="UIPM Pentathlon World Cup: Men's Final - Cairo @ Apr 12 10:00 (VN):CBC Gem  20" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",UIPM Pentathlon World Cup: Men's Final - Cairo @ Apr 12 10:00 (VN):CBC Gem  20
+http://myxpanel.pro:80/live/Martin/Martin/805933.ts
+#EXTINF:-1 tvg-id="uipmpentathlonworldcupwomensemifinalacairoapr111100vncbcgem02" tvg-name="UIPM Pentathlon World Cup: Women Semi Final A - Cairo @ Apr 11 11:00 (VN):CBC Gem  02" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",UIPM Pentathlon World Cup: Women Semi Final A - Cairo @ Apr 11 11:00 (VN):CBC Gem  02
+http://myxpanel.pro:80/live/Martin/Martin/805951.ts
+#EXTINF:-1 tvg-id="uipmpentathlonworldcupwomensemifinalbcairoapr111500vncbcgem03" tvg-name="UIPM Pentathlon World Cup: Women Semi Final B - Cairo @ Apr 11 15:00 (VN):CBC Gem  03" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",UIPM Pentathlon World Cup: Women Semi Final B - Cairo @ Apr 11 15:00 (VN):CBC Gem  03
+http://myxpanel.pro:80/live/Martin/Martin/805950.ts
+#EXTINF:-1 tvg-id="uipmpentathlonworldcupwomensfinalcairoapr121400vncbcgem22" tvg-name="UIPM Pentathlon World Cup: Women's Final - Cairo @ Apr 12 14:00 (VN):CBC Gem  22" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",UIPM Pentathlon World Cup: Women's Final - Cairo @ Apr 12 14:00 (VN):CBC Gem  22
+http://myxpanel.pro:80/live/Martin/Martin/805931.ts
+#EXTINF:-1 tvg-id="worldathleticsracewalkingteamchampionshipsapr121145vncbcgem21" tvg-name="World Athletics Race Walking Team Championships @ Apr 12 11:45 (VN):CBC Gem  21" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",World Athletics Race Walking Team Championships @ Apr 12 11:45 (VN):CBC Gem  21
+http://myxpanel.pro:80/live/Martin/Martin/805932.ts
 #EXTINF:-1 tvg-id="cabeinsportshd" tvg-name="CA Bein Sports HD" tvg-logo="http://xplatinmedia.com:8080/images/c906b175d8cd14f95d016aca9d2ad191.png" group-title="Canada | Sports",CA Bein Sports HD
 http://myxpanel.pro:80/live/Martin/Martin/3979.ts
 #EXTINF:-1 tvg-id="cafightnetwork" tvg-name="CA Fight Network" tvg-logo="https://img.favpng.com/10/20/2/fight-network-boxing-television-ufc-129-st-pierre-vs-shields-logo-png-favpng-j0dcjnVEBXC4RSy5LLCS2mUuM.jpg" group-title="Canada | Sports",CA Fight Network
@@ -1581,34 +1579,6 @@ http://myxpanel.pro:80/live/Martin/Martin/3990.ts
 http://myxpanel.pro:80/live/Martin/Martin/3907.ts
 #EXTINF:-1 tvg-id="catvasports2" tvg-name="CA TVA Sports 2" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a975.png" group-title="Canada | Sports",CA TVA Sports 2
 http://myxpanel.pro:80/live/Martin/Martin/3906.ts
-#EXTINF:-1 tvg-id="sportsnet14" tvg-name=":Sportsnet+  14" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",:Sportsnet+  14
-http://myxpanel.pro:80/live/Martin/Martin/657877.ts
-#EXTINF:-1 tvg-id="sportsnet15" tvg-name=":Sportsnet+  15" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",:Sportsnet+  15
-http://myxpanel.pro:80/live/Martin/Martin/657876.ts
-#EXTINF:-1 tvg-id="sportsnet16" tvg-name=":Sportsnet+  16" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",:Sportsnet+  16
-http://myxpanel.pro:80/live/Martin/Martin/657875.ts
-#EXTINF:-1 tvg-id="sportsnet17" tvg-name=":Sportsnet+  17" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",:Sportsnet+  17
-http://myxpanel.pro:80/live/Martin/Martin/657874.ts
-#EXTINF:-1 tvg-id="sportsnet18" tvg-name=":Sportsnet+  18" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",:Sportsnet+  18
-http://myxpanel.pro:80/live/Martin/Martin/657873.ts
-#EXTINF:-1 tvg-id="sportsnet19" tvg-name=":Sportsnet+  19" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",:Sportsnet+  19
-http://myxpanel.pro:80/live/Martin/Martin/657872.ts
-#EXTINF:-1 tvg-id="sportsnet20" tvg-name=":Sportsnet+  20" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",:Sportsnet+  20
-http://myxpanel.pro:80/live/Martin/Martin/657871.ts
-#EXTINF:-1 tvg-id="sportsnet21" tvg-name=":Sportsnet+  21" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",:Sportsnet+  21
-http://myxpanel.pro:80/live/Martin/Martin/657870.ts
-#EXTINF:-1 tvg-id="sportsnet22" tvg-name=":Sportsnet+  22" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",:Sportsnet+  22
-http://myxpanel.pro:80/live/Martin/Martin/657869.ts
-#EXTINF:-1 tvg-id="sportsnet23" tvg-name=":Sportsnet+  23" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",:Sportsnet+  23
-http://myxpanel.pro:80/live/Martin/Martin/657868.ts
-#EXTINF:-1 tvg-id="sportsnet24" tvg-name=":Sportsnet+  24" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",:Sportsnet+  24
-http://myxpanel.pro:80/live/Martin/Martin/657867.ts
-#EXTINF:-1 tvg-id="sportsnet25" tvg-name=":Sportsnet+  25" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",:Sportsnet+  25
-http://myxpanel.pro:80/live/Martin/Martin/657866.ts
-#EXTINF:-1 tvg-id="sportsnet26" tvg-name=":Sportsnet+  26" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",:Sportsnet+  26
-http://myxpanel.pro:80/live/Martin/Martin/657865.ts
-#EXTINF:-1 tvg-id="sportsnet27" tvg-name=":Sportsnet+  27" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",:Sportsnet+  27
-http://myxpanel.pro:80/live/Martin/Martin/657864.ts
 #EXTINF:-1 tvg-id="sportsnet28" tvg-name=":Sportsnet+  28" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",:Sportsnet+  28
 http://myxpanel.pro:80/live/Martin/Martin/657863.ts
 #EXTINF:-1 tvg-id="sportsnet29" tvg-name=":Sportsnet+  29" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",:Sportsnet+  29
@@ -1655,24 +1625,18 @@ http://myxpanel.pro:80/live/Martin/Martin/657843.ts
 http://myxpanel.pro:80/live/Martin/Martin/657842.ts
 #EXTINF:-1 tvg-id="sportsnet50" tvg-name=":Sportsnet+  50" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",:Sportsnet+  50
 http://myxpanel.pro:80/live/Martin/Martin/657841.ts
-#EXTINF:-1 tvg-id="blairbarkerapril10apr102000vnsportsnet07" tvg-name="Blair & Barker April 10 @ Apr 10 20:00 (VN):Sportsnet+  07" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",Blair & Barker April 10 @ Apr 10 20:00 (VN):Sportsnet+  07
-http://myxpanel.pro:80/live/Martin/Martin/657884.ts
-#EXTINF:-1 tvg-id="facupyouthcupsemifinalmanchestercityvsblackburnroversapr101950vnsportsnet06" tvg-name="FA CUP: Youth Cup Semi Final Manchester City vs Blackburn Rovers @ Apr 10 19:50 (VN):Sportsnet+  06" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",FA CUP: Youth Cup Semi Final Manchester City vs Blackburn Rovers @ Apr 10 19:50 (VN):Sportsnet+  06
-http://myxpanel.pro:80/live/Martin/Martin/657885.ts
-#EXTINF:-1 tvg-id="mlbhoustonvsseattleapr100330vnsportsnet13" tvg-name="MLB: Houston vs Seattle @ Apr 10 03:30 (VN):Sportsnet+  13" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",MLB: Houston vs Seattle @ Apr 10 03:30 (VN):Sportsnet+  13
-http://myxpanel.pro:80/live/Martin/Martin/657878.ts
-#EXTINF:-1 tvg-id="mlbminnesotavstorontoapr100030vnsportsnet11" tvg-name="MLB: Minnesota vs Toronto @ Apr 10 00:30 (VN):Sportsnet+  11" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",MLB: Minnesota vs Toronto @ Apr 10 00:30 (VN):Sportsnet+  11
-http://myxpanel.pro:80/live/Martin/Martin/657880.ts
-#EXTINF:-1 tvg-id="nbaoklahomacityvsdenverapr100300vnsportsnet12" tvg-name="NBA: Oklahoma City vs Denver @ Apr 10 03:00 (VN):Sportsnet+  12" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",NBA: Oklahoma City vs Denver @ Apr 10 03:00 (VN):Sportsnet+  12
-http://myxpanel.pro:80/live/Martin/Martin/657879.ts
-#EXTINF:-1 tvg-id="realkyperbourneapril10apr102200vnsportsnet08" tvg-name="Real Kyper & Bourne April 10 @ Apr 10 22:00 (VN):Sportsnet+  08" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",Real Kyper & Bourne April 10 @ Apr 10 22:00 (VN):Sportsnet+  08
+#EXTINF:-1 tvg-id="eredivisieheraclesalmelovsafcajaxapr112050vnsportsnet08" tvg-name="Eredivisie: Heracles Almelo vs AFC Ajax @ Apr 11 20:50 (VN):Sportsnet+  08" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",Eredivisie: Heracles Almelo vs AFC Ajax @ Apr 11 20:50 (VN):Sportsnet+  08
 http://myxpanel.pro:80/live/Martin/Martin/657883.ts
-#EXTINF:-1 tvg-id="sportsnetcentralapril9apr101100vnsportsnet02" tvg-name="Sportsnet Central April 9 @ Apr 10 11:00 (VN):Sportsnet+  02" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",Sportsnet Central April 9 @ Apr 10 11:00 (VN):Sportsnet+  02
-http://myxpanel.pro:80/live/Martin/Martin/657889.ts
-#EXTINF:-1 tvg-id="thefanpregameapril10apr100000vnsportsnet10" tvg-name="The Fan Pregame April 10 @ Apr 10 00:00 (VN):Sportsnet+  10" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",The Fan Pregame April 10 @ Apr 10 00:00 (VN):Sportsnet+  10
-http://myxpanel.pro:80/live/Martin/Martin/657881.ts
-#EXTINF:-1 tvg-id="theraptorsshowapril10apr101700vnsportsnet04" tvg-name="The Raptors Show April 10 @ Apr 10 17:00 (VN):Sportsnet+  04" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",The Raptors Show April 10 @ Apr 10 17:00 (VN):Sportsnet+  04
+#EXTINF:-1 tvg-id="eredivisiespartarotterdamvspsveindhovenapr111835vnsportsnet04" tvg-name="Eredivisie: Sparta Rotterdam vs PSV Eindhoven @ Apr 11 18:35 (VN):Sportsnet+  04" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",Eredivisie: Sparta Rotterdam vs PSV Eindhoven @ Apr 11 18:35 (VN):Sportsnet+  04
 http://myxpanel.pro:80/live/Martin/Martin/657887.ts
+#EXTINF:-1 tvg-id="mlbminnesotavstorontoapr112030vnsportsnet07" tvg-name="MLB: Minnesota vs Toronto @ Apr 11 20:30 (VN):Sportsnet+  07" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",MLB: Minnesota vs Toronto @ Apr 11 20:30 (VN):Sportsnet+  07
+http://myxpanel.pro:80/live/Martin/Martin/657884.ts
+#EXTINF:-1 tvg-id="mlbnewyorkyankeesvstampabayapr110000vnsportsnet16" tvg-name="MLB: New York Yankees vs Tampa Bay @ Apr 11 00:00 (VN):Sportsnet+  16" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",MLB: New York Yankees vs Tampa Bay @ Apr 11 00:00 (VN):Sportsnet+  16
+http://myxpanel.pro:80/live/Martin/Martin/657875.ts
+#EXTINF:-1 tvg-id="slrchallengecupquarterfinalhullkrvsyorkknightsapr111420vnsportsnet02" tvg-name="SLR: Challenge Cup Quarter Final Hull KR vs York Knights @ Apr 11 14:20 (VN):Sportsnet+  02" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",SLR: Challenge Cup Quarter Final Hull KR vs York Knights @ Apr 11 14:20 (VN):Sportsnet+  02
+http://myxpanel.pro:80/live/Martin/Martin/657889.ts
+#EXTINF:-1 tvg-id="sportsnetcentralapril10apr111100vnsportsnet01" tvg-name="Sportsnet Central April 10 @ Apr 11 11:00 (VN):Sportsnet+  01" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",Sportsnet Central April 10 @ Apr 11 11:00 (VN):Sportsnet+  01
+http://myxpanel.pro:80/live/Martin/Martin/657890.ts
 #EXTINF:-1 tvg-id="3fussballliga1" tvg-name="3. FUSSBALL-LIGA 1" tvg-logo="" group-title="DE | SPORT",3. FUSSBALL-LIGA 1
 http://myxpanel.pro:80/live/Martin/Martin/662197.ts
 #EXTINF:-1 tvg-id="3fussballliga2" tvg-name="3. FUSSBALL-LIGA 2" tvg-logo="" group-title="DE | SPORT",3. FUSSBALL-LIGA 2
@@ -4881,10 +4845,6 @@ http://myxpanel.pro:80/live/Martin/Martin/732754.ts
 http://myxpanel.pro:80/live/Martin/Martin/732751.ts
 #EXTINF:-1 tvg-id="snookerzhouyuelongvsrobbiemcguiganapr110200vnmaxse08" tvg-name="Snooker: Zhou Yuelong vs Robbie McGuigan @ Apr 11 02:00 (VN):MAX SE  08" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Sweden | max sports",Snooker: Zhou Yuelong vs Robbie McGuigan @ Apr 11 02:00 (VN):MAX SE  08
 http://myxpanel.pro:80/live/Martin/Martin/732750.ts
-#EXTINF:-1 tvg-id="maxus02" tvg-name=":MAX US 02" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",:MAX US 02
-http://myxpanel.pro:80/live/Martin/Martin/732309.ts
-#EXTINF:-1 tvg-id="maxus03" tvg-name=":MAX US 03" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",:MAX US 03
-http://myxpanel.pro:80/live/Martin/Martin/732308.ts
 #EXTINF:-1 tvg-id="maxus04" tvg-name=":MAX US 04" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",:MAX US 04
 http://myxpanel.pro:80/live/Martin/Martin/732307.ts
 #EXTINF:-1 tvg-id="maxus05" tvg-name=":MAX US 05" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",:MAX US 05
@@ -5079,32 +5039,8 @@ http://myxpanel.pro:80/live/Martin/Martin/732214.ts
 http://myxpanel.pro:80/live/Martin/Martin/732213.ts
 #EXTINF:-1 tvg-id="maxus99" tvg-name=":MAX US 99" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",:MAX US 99
 http://myxpanel.pro:80/live/Martin/Martin/732212.ts
-#EXTINF:-1 tvg-id="nbcsports06" tvg-name=":Nbc Sports  06" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",:Nbc Sports  06
-http://myxpanel.pro:80/live/Martin/Martin/780230.ts
-#EXTINF:-1 tvg-id="nbcsports07" tvg-name=":Nbc Sports  07" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",:Nbc Sports  07
-http://myxpanel.pro:80/live/Martin/Martin/780229.ts
-#EXTINF:-1 tvg-id="nbcsports08" tvg-name=":Nbc Sports  08" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",:Nbc Sports  08
-http://myxpanel.pro:80/live/Martin/Martin/780228.ts
-#EXTINF:-1 tvg-id="nbcsports09" tvg-name=":Nbc Sports  09" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",:Nbc Sports  09
-http://myxpanel.pro:80/live/Martin/Martin/780227.ts
-#EXTINF:-1 tvg-id="nbcsports10" tvg-name=":Nbc Sports  10" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",:Nbc Sports  10
-http://myxpanel.pro:80/live/Martin/Martin/780226.ts
-#EXTINF:-1 tvg-id="nbcsports11" tvg-name=":Nbc Sports  11" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",:Nbc Sports  11
-http://myxpanel.pro:80/live/Martin/Martin/780225.ts
-#EXTINF:-1 tvg-id="nbcsports12" tvg-name=":Nbc Sports  12" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",:Nbc Sports  12
-http://myxpanel.pro:80/live/Martin/Martin/780224.ts
-#EXTINF:-1 tvg-id="nbcsports13" tvg-name=":Nbc Sports  13" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",:Nbc Sports  13
-http://myxpanel.pro:80/live/Martin/Martin/780223.ts
-#EXTINF:-1 tvg-id="nbcsports14" tvg-name=":Nbc Sports  14" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",:Nbc Sports  14
-http://myxpanel.pro:80/live/Martin/Martin/780222.ts
-#EXTINF:-1 tvg-id="nbcsports15" tvg-name=":Nbc Sports  15" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",:Nbc Sports  15
-http://myxpanel.pro:80/live/Martin/Martin/780221.ts
-#EXTINF:-1 tvg-id="nbcsports16" tvg-name=":Nbc Sports  16" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",:Nbc Sports  16
-http://myxpanel.pro:80/live/Martin/Martin/780220.ts
-#EXTINF:-1 tvg-id="nbcsports17" tvg-name=":Nbc Sports  17" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",:Nbc Sports  17
-http://myxpanel.pro:80/live/Martin/Martin/780219.ts
-#EXTINF:-1 tvg-id="nbcsports18" tvg-name=":Nbc Sports  18" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",:Nbc Sports  18
-http://myxpanel.pro:80/live/Martin/Martin/780218.ts
+#EXTINF:-1 tvg-id="socceruswntvsjapanapr112300vnmaxus02" tvg-name="Soccer: USWNT vs Japan @ Apr 11 23:00 (VN):MAX US 02" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",Soccer: USWNT vs Japan @ Apr 11 23:00 (VN):MAX US 02
+http://myxpanel.pro:80/live/Martin/Martin/732309.ts
 #EXTINF:-1 tvg-id="nbcsports19" tvg-name=":Nbc Sports  19" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",:Nbc Sports  19
 http://myxpanel.pro:80/live/Martin/Martin/780217.ts
 #EXTINF:-1 tvg-id="nbcsports20" tvg-name=":Nbc Sports  20" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",:Nbc Sports  20
@@ -5169,16 +5105,36 @@ http://myxpanel.pro:80/live/Martin/Martin/780188.ts
 http://myxpanel.pro:80/live/Martin/Martin/780187.ts
 #EXTINF:-1 tvg-id="nbcsports50" tvg-name=":Nbc Sports  50" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",:Nbc Sports  50
 http://myxpanel.pro:80/live/Martin/Martin/780186.ts
-#EXTINF:-1 tvg-id="mlbathleticsvsmetsapr100030vnnbcsports02" tvg-name="MLB: Athletics vs Mets @ Apr 10 00:30 (VN):Nbc Sports  02" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",MLB: Athletics vs Mets @ Apr 10 00:30 (VN):Nbc Sports  02
-http://myxpanel.pro:80/live/Martin/Martin/780234.ts
-#EXTINF:-1 tvg-id="mlbdiamondbacksvsphilliesapr100000vnnbcsports01" tvg-name="MLB: Diamondbacks vs Phillies @ Apr 10 00:00 (VN):Nbc Sports  01" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",MLB: Diamondbacks vs Phillies @ Apr 10 00:00 (VN):Nbc Sports  01
-http://myxpanel.pro:80/live/Martin/Martin/780235.ts
-#EXTINF:-1 tvg-id="nba76ersvspacersapr100100vnnbcsports04" tvg-name="NBA: 76ers vs Pacers @ Apr 10 01:00 (VN):Nbc Sports  04" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",NBA: 76ers vs Pacers @ Apr 10 01:00 (VN):Nbc Sports  04
+#EXTINF:-1 tvg-id="ligamxtigresvschivasapr110055vnnbcsports09" tvg-name="Liga MX: Tigres vs Chivas @ Apr 11 00:55 (VN):Nbc Sports  09" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",Liga MX: Tigres vs Chivas @ Apr 11 00:55 (VN):Nbc Sports  09
+http://myxpanel.pro:80/live/Martin/Martin/780227.ts
+#EXTINF:-1 tvg-id="mlbathleticsvsmetsapr112130vnnbcsports07" tvg-name="MLB: Athletics vs Mets @ Apr 11 21:30 (VN):Nbc Sports  07" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",MLB: Athletics vs Mets @ Apr 11 21:30 (VN):Nbc Sports  07
+http://myxpanel.pro:80/live/Martin/Martin/780229.ts
+#EXTINF:-1 tvg-id="mlbdiamondbacksvsphilliesapr111830vnnbcsports04" tvg-name="MLB: Diamondbacks vs Phillies @ Apr 11 18:30 (VN):Nbc Sports  04" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",MLB: Diamondbacks vs Phillies @ Apr 11 18:30 (VN):Nbc Sports  04
 http://myxpanel.pro:80/live/Martin/Martin/780232.ts
-#EXTINF:-1 tvg-id="nbapelicansvscelticsapr100030vnnbcsports03" tvg-name="NBA: Pelicans vs Celtics @ Apr 10 00:30 (VN):Nbc Sports  03" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",NBA: Pelicans vs Celtics @ Apr 10 00:30 (VN):Nbc Sports  03
-http://myxpanel.pro:80/live/Martin/Martin/780233.ts
-#EXTINF:-1 tvg-id="nbawarriorsvskingsapr100300vnnbcsports05" tvg-name="NBA: Warriors vs Kings @ Apr 10 03:00 (VN):Nbc Sports  05" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",NBA: Warriors vs Kings @ Apr 10 03:00 (VN):Nbc Sports  05
+#EXTINF:-1 tvg-id="mlbgiantsvsoriolesapr121900vnnbcsports13" tvg-name="MLB: Giants vs Orioles @ Apr 12 19:00 (VN):Nbc Sports  13" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",MLB: Giants vs Orioles @ Apr 12 19:00 (VN):Nbc Sports  13
+http://myxpanel.pro:80/live/Martin/Martin/780223.ts
+#EXTINF:-1 tvg-id="mlbguardiansvsbravesapr120100vnnbcsports17" tvg-name="MLB: Guardians vs Braves @ Apr 12 01:00 (VN):Nbc Sports  17" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",MLB: Guardians vs Braves @ Apr 12 01:00 (VN):Nbc Sports  17
+http://myxpanel.pro:80/live/Martin/Martin/780219.ts
+#EXTINF:-1 tvg-id="nbabucksvs76ersapr122330vnnbcsports16" tvg-name="NBA: Bucks vs 76ers @ Apr 12 23:30 (VN):Nbc Sports  16" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",NBA: Bucks vs 76ers @ Apr 12 23:30 (VN):Nbc Sports  16
+http://myxpanel.pro:80/live/Martin/Martin/780220.ts
+#EXTINF:-1 tvg-id="nbakingsvstrailblazersapr120200vnnbcsports18" tvg-name="NBA: Kings vs Trail Blazers @ Apr 12 02:00 (VN):Nbc Sports  18" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",NBA: Kings vs Trail Blazers @ Apr 12 02:00 (VN):Nbc Sports  18
+http://myxpanel.pro:80/live/Martin/Martin/780218.ts
+#EXTINF:-1 tvg-id="nbamagicvscelticsapr122300vnnbcsports15" tvg-name="NBA: Magic vs Celtics @ Apr 12 23:00 (VN):Nbc Sports  15" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",NBA: Magic vs Celtics @ Apr 12 23:00 (VN):Nbc Sports  15
+http://myxpanel.pro:80/live/Martin/Martin/780221.ts
+#EXTINF:-1 tvg-id="olympicsworldfigureskatingchampionshipsapr122100vnnbcsports14" tvg-name="Olympics: World Figure Skating Championships @ Apr 12 21:00 (VN):Nbc Sports  14" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",Olympics: World Figure Skating Championships @ Apr 12 21:00 (VN):Nbc Sports  14
+http://myxpanel.pro:80/live/Martin/Martin/780222.ts
+#EXTINF:-1 tvg-id="premierleaguearsenalvbournemouthenespañolapr111300vnnbcsports01" tvg-name="Premier League: Arsenal v Bournemouth En Español @ Apr 11 13:00 (VN):Nbc Sports  01" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",Premier League: Arsenal v Bournemouth En Español @ Apr 11 13:00 (VN):Nbc Sports  01
+http://myxpanel.pro:80/live/Martin/Martin/780235.ts
+#EXTINF:-1 tvg-id="premierleaguebrentfordvevertonenespañolapr111530vnnbcsports02" tvg-name="Premier League: Brentford v Everton En Español @ Apr 11 15:30 (VN):Nbc Sports  02" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",Premier League: Brentford v Everton En Español @ Apr 11 15:30 (VN):Nbc Sports  02
+http://myxpanel.pro:80/live/Martin/Martin/780234.ts
+#EXTINF:-1 tvg-id="premierleaguechelseavmancityenespañolapr121700vnnbcsports12" tvg-name="Premier League: Chelsea v Man City En Español @ Apr 12 17:00 (VN):Nbc Sports  12" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",Premier League: Chelsea v Man City En Español @ Apr 12 17:00 (VN):Nbc Sports  12
+http://myxpanel.pro:80/live/Martin/Martin/780224.ts
+#EXTINF:-1 tvg-id="premierleagueliverpoolvfulhamapr111830vnnbcsports05" tvg-name="Premier League: Liverpool v Fulham @ Apr 11 18:30 (VN):Nbc Sports  05" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",Premier League: Liverpool v Fulham @ Apr 11 18:30 (VN):Nbc Sports  05
 http://myxpanel.pro:80/live/Martin/Martin/780231.ts
+#EXTINF:-1 tvg-id="premierleagueliverpoolvfulhamenespañolapr111800vnnbcsports03" tvg-name="Premier League: Liverpool v Fulham En Español @ Apr 11 18:00 (VN):Nbc Sports  03" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",Premier League: Liverpool v Fulham En Español @ Apr 11 18:00 (VN):Nbc Sports  03
+http://myxpanel.pro:80/live/Martin/Martin/780233.ts
+#EXTINF:-1 tvg-id="premierleaguesunderlandvtottenhamhotspursenespañolapr121430vnnbcsports11" tvg-name="Premier League: Sunderland v Tottenham Hotspurs En Español @ Apr 12 14:30 (VN):Nbc Sports  11" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",Premier League: Sunderland v Tottenham Hotspurs En Español @ Apr 12 14:30 (VN):Nbc Sports  11
+http://myxpanel.pro:80/live/Martin/Martin/780225.ts
 #EXTINF:-1 tvg-id="peacockoriginal1" tvg-name="Peacock Original 1" tvg-logo="https://iili.io/PSF1VV.md.png" group-title="USA | Peacock Series Originals",Peacock Original 1
 http://myxpanel.pro:80/live/Martin/Martin/271191.ts
 #EXTINF:-1 tvg-id="peacockoriginal10" tvg-name="Peacock Original 10" tvg-logo="https://iili.io/PSF1VV.md.png" group-title="USA | Peacock Series Originals",Peacock Original 10
